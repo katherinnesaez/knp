@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: knp
+        psr4_prefix: knp
+        src_path: app
